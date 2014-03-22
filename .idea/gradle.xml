@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="C:\Users\Jeff\Repos\velcro\MyGasMilage" />
-            <option value="C:\Users\Jeff\Repos\velcro\MyGasMilage\mygasmilage" />
+            <option value="C:\Users\Jeff\Repos\MyGasMilage" />
+            <option value="C:\Users\Jeff\Repos\MyGasMilage\mygasmilage" />
           </set>
         </option>
       </GradleProjectSettings>
