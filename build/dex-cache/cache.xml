@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Jeff\AndroidStudioProjects\MyGasMilage\Android App\build\pre-dexed\debug\support-v4-19.1.0-034c0bfec01bd4f36a8c170759f4d714c67fb5b3.jar"
+        jar="C:\Users\Jeff\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Jeff\AndroidStudioProjects\MyGasMilage\Android App\build\pre-dexed\debug\renderscript-v8-12454f6b49331d2462db69d74f0d5366e95f5527.jar"
+        jar="C:\Users\Jeff\AppData\Local\Android\android-studio\sdk\build-tools\19.0.3\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="daa96940c1ddb41cb50c36c4fa113edc5f81f09e"/>
+    <item
+        dex="C:\Users\Jeff\AndroidStudioProjects\MyGasMilage\Android App\build\pre-dexed\debug\support-v13-19.1.0-15acf74cbd9584fb8b1f0edbef2cb5fe5c652023.jar"
+        jar="C:\Users\Jeff\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v13\19.1.0\support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c"/>
+
+</pre-dex-items>

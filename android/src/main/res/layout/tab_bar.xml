@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.jeffinmadison.mygasmilage.ui.tabbarview.TabBarView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    tools:context=".ui.main.MainActivity">
+
+    <com.jeffinmadison.mygasmilage.ui.tabbarview.TabView
+        android:id="@+id/entry"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+    <com.jeffinmadison.mygasmilage.ui.tabbarview.TabView
+        android:id="@+id/graph"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+    <com.jeffinmadison.mygasmilage.ui.tabbarview.TabView
+        android:id="@+id/misc"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+</com.jeffinmadison.mygasmilage.ui.tabbarview.TabBarView>
